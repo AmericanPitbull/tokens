@@ -1,11 +1,11 @@
-{
-    "name": "Rich Monkey Token",
-    "website": "https://www.richmonkey.vip/",
-    "description": "Rich Monkey Token(RMT)",
-    "explorer": "https://bscscan.com/address/0x5a87771C0522191eD915Fb669b04470D801Fae1c",
-    "type": "BEP20",
-    "symbol": "RMT",
-    "decimals": 8,
-    "status": "active",
-    "id": "0xF1f54bCB45B181e760635DCcedd71e808d6b7e03"
+{ 
+"name": "LampedusaCoin",
+"website": "https://www.lampedusacoin.com",
+"description": "The southernmost currency of Europe",
+"explorer": "https://bscscan.com/address/0xA55CC50F98ecCA10C07eA11100250798D1de49fB",
+"type": "BEP20",
+"symbol": "LMPC",
+"decimals": 18,
+"status": "active",
+"id": "0xA55CC50F98ecCA10C07eA11100250798D1de49fB"
 }
